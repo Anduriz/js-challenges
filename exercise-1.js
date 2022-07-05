@@ -22,3 +22,5 @@ console.log(calculateSum());
 
 // Reduce
 console.log(numbers.reduce((res, item) => res + item));
+
+//Este es un comentario
